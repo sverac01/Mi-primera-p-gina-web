@@ -1,0 +1,45 @@
+table{
+	text-align:center;
+	border-collapse:collapse;
+	font-size:50px;
+}
+.vox{
+	color:green;
+	width:100px;
+	background:rgb(0,255,0)
+}
+.pp{
+	color:blue;
+	width:350px;
+	background:rgb(0,75,255)
+}
+.podemos{
+	color:purple;
+	width:200px;
+	background:rgb(255,0,255)
+}
+.psoe{
+	color:red;
+	width:700px;
+	background:rgb(250,50,50)
+}
+.cs{
+	color:rgb(255,125,0);
+	width:250px;
+	background:rgb(250,200,0)
+}
+h1{
+	font-size:100px;
+	text-align:center;
+}
+b{
+	font-size:25px;
+}
+td, th{
+	text-align:center;
+	border:5px solid black;
+	font-size:50px;
+}
+html{
+	background-image:url('bandera.jpg');
+}
